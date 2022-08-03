@@ -1,5 +1,6 @@
 #include <all.h>
 
 void _start(){
- print("NEW PLACE!)
+ printf("NEW PLACE!\n\r"); //add this
+ // tahnk you soo much~! use // so it will not make errors
 }
