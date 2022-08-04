@@ -2,5 +2,5 @@
 
 void _start(){
  printf("NEW PLACE!\n\r"); //add this
- printf("sup?);
+ printf("sup?");
 }
